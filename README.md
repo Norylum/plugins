@@ -1,0 +1,2 @@
+# plugins
+Catalogue officiel
